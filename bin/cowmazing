@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'cowmazing'
+puts Cowmazing.moo(ARGV[0])
